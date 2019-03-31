@@ -1,0 +1,19 @@
+D .
+D img
+R E87FD226 bg.jpg
+R B5074C23 bg2.png
+P F15BEA79 btn_close.png
+R C8F243E9 crazy_snowball.png
+P 0C447D9A help0.png
+P AC65B4D2 help1.png
+P 025EA051 help2.png
+P 4FFFA2C6 help3.png
+P 58D951D0 help4.png
+P E424D9EB help5.png
+P CE334088 help6.png
+P 9E3F761B logo.png
+P C5C0E741 mask.png
+P 7105AB31 monkey0.png
+P B919DA90 monkey1.png
+P 40CFAF5A monkey2.png
+P 030540DA monkey3.png
