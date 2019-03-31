@@ -13,6 +13,11 @@ var __extends = (this && this.__extends) || (function () {
 })();
 /**
 * 新手指引
+* 1.加载背景
+* 2.设置半透明遮罩
+* 3.利用混合模式，显示出可交互区域
+* 4.设置 hitArea,使特定的区域可以被点击
+* 5.通过 step 变量和数组，控制显示从顺序
 */
 var laya;
 (function (laya) {

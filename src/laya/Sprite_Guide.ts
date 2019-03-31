@@ -8,7 +8,7 @@
 */
 module laya{
 	export class Sprite_Guide extends Laya.Sprite{
-		private red:Laya.Sprite;
+
 		private guideContainer:Laya.Sprite;
 		private tipContainer:Laya.Sprite;
 
